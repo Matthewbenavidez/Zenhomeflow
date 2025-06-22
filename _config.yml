@@ -8,3 +8,7 @@ permalink: /:year/:month/:day/:title.html
 
 theme: minima
 
+plugins:
+  - jekyll-feed
+
+
