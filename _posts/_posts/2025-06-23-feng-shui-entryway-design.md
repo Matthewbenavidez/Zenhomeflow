@@ -30,8 +30,8 @@ Hang a piece of art, a calming image, or an inspiring quote to greet guests and 
 ---
 
 **Entryway Enhancers:**
-- Jade plants or money trees in decorative pots  
-- Soft-lit Himalayan salt lamp  
-- Wooden shoe rack or storage bench for harmony
+- [Jade Plant in White Ceramic Pot](https://www.amazon.com/dp/B07PP9PVHM?tag=zenhomeflow-20)
+- [Himalayan Salt Lamp with Dimmer](https://www.amazon.com/dp/B01N6YJH6X?tag=zenhomeflow-20)
+- [Natural Bamboo Shoe Rack Bench](https://www.amazon.com/dp/B08B55BYBD?tag=zenhomeflow-20)
 
 > Your front door is your invitation to the universe — make it feel open, intentional, and alive.
