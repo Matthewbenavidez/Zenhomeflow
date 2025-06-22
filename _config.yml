@@ -2,13 +2,13 @@ title: ZenHomeFlow
 description: Harmonize your home with design and energy
 author: Matthew Benavidez
 url: "https://matthewbenavidez.github.io"
-baseurl: "/zenhomeflow" # IMPORTANT since you're using a project page
+baseurl: "/zenhomeflow"
 
 paginate: 5
 paginate_path: "/page:num"
 permalink: /:year/:month/:day/:title.html
 
-theme: jekyll-theme-minimal
+theme: minima
 
 plugins:
   - jekyll-paginate
