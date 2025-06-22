@@ -32,8 +32,8 @@ A mirror that reflects a pile of laundry, cords, or a messy space doubles the me
 ---
 
 **Suggested Feng Shui Mirrors:**
-- Round wood-framed mirror for calm energy  
-- Standing floor mirror for small entryways  
-- Decorative octagonal Bagua mirror (for exterior use only)
+- [Convex Bagua Mirror (4″) for outdoor protection](https://www.amazon.com/dp/B0725TCX4V?tag=zenhomeflow-20)
+- [Concave Bagua Mirror (4″) to gather wealth](https://www.amazon.com/dp/B075LRMTG7?tag=zenhomeflow-20)
+- [6″ Protective Bagua Mirror – traditional style](https://www.amazon.com/dp/B07K2GXWM7?tag=zenhomeflow-20)
 
 > Tip: Before placing a mirror, ask “What energy am I doubling in this space?”
