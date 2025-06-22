@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Feng Shui Bedroom Tips for Better Sleep and Energy"
-date: 2024-06-21
+date: 2025-06-21
 categories: feng-shui bedroom
 ---
 
