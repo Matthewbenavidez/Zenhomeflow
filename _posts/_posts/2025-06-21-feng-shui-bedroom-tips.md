@@ -25,8 +25,8 @@ Colors like beige, taupe, and soft greens promote calm. Avoid bright reds or har
 ---
 
 **Recommended items to enhance your space:**
-- Himalayan salt lamp  
-- Soft cotton bedding  
-- Rose quartz crystal pair for love and harmony
+- [Himalayan Salt Lamp for calming energy](https://www.amazon.com/dp/B01N6YJH6X?tag=zenhomeflow-20)
+- [Cotton Bedding Set – Soft and Breathable](https://www.amazon.com/dp/B07PP3FG6W?tag=zenhomeflow-20)
+- [Rose Quartz Heart Pair – Love & Harmony](https://www.amazon.com/dp/B0861GW6Y7?tag=zenhomeflow-20)
 
 > Sleep and energy are deeply linked — your space should help, not hinder, your healing.
