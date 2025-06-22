@@ -7,6 +7,8 @@ categories: feng-shui bedroom
 
 Your bedroom should be your sanctuary — a place of rest, intimacy, and calm energy. Feng Shui offers practical guidance to balance the energy in your bedroom for better sleep and emotional well-being.
 
+![Peaceful bedroom with natural light and plants](https://images.unsplash.com/photo-1595526114035-0d39a7a5e33b?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80)
+
 ## 1. Position Your Bed with a Commanding View
 Avoid placing your bed directly in line with the door. Instead, position it so you can see the door while lying down — but not directly facing it. This brings a sense of control and safety.
 
@@ -25,6 +27,7 @@ Colors like beige, taupe, and soft greens promote calm. Avoid bright reds or har
 ---
 
 **Recommended items to enhance your space:**
+[![Himalayan Salt Lamp](https://m.media-amazon.com/images/I/61y6q0MFWNL._AC_SL1500_.jpg)](https://www.amazon.com/dp/B01N6YJH6X?tag=zenhomeflow-20)
 - [Himalayan Salt Lamp for calming energy](https://www.amazon.com/dp/B01N6YJH6X?tag=zenhomeflow-20)
 - [Cotton Bedding Set – Soft and Breathable](https://www.amazon.com/dp/B07PP3FG6W?tag=zenhomeflow-20)
 - [Rose Quartz Heart Pair – Love & Harmony](https://www.amazon.com/dp/B0861GW6Y7?tag=zenhomeflow-20)
