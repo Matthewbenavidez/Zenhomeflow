@@ -44,6 +44,6 @@ Contrary to popular belief, this plant brings grounded energy when placed proper
 > Plants remind us that growth is alive and ongoing — they help Chi flow and bloom alongside us.
 
 **Suggested Picks:**
-- Live jade bonsai  
-- White ceramic plant pot set  
-- Plant care app or self-watering pot system
+- [Dwarf Jade Bonsai Tree – Indoor Beginner Plant](https://www.amazon.com/dp/B07P4HH8J3?tag=zenhomeflow-20)
+- [Decorative Ceramic Planter Set (3 Pack)](https://www.amazon.com/dp/B07C37FQBX?tag=zenhomeflow-20)
+- [Self-Watering Pots with Water Level Indicator](https://www.amazon.com/dp/B09TQ3B6BR?tag=zenhomeflow-20)
