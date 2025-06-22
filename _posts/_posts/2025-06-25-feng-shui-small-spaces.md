@@ -30,9 +30,8 @@ Light walls, rugs, and bedding make rooms feel airy. Soft textures (cotton, line
 ---
 
 **Feng Shui for Small Space Wins:**
-- Over-the-door storage solutions  
-- Wall-mounted shelves  
-- Small jade plants or bonsai trees  
-- Light-colored curtains to filter natural light
+- [Over-the-Door Hanging Organizer (Multi-pocket)](https://www.amazon.com/dp/B08GY87QQ4?tag=zenhomeflow-20)
+- [Wall-Mounted Floating Shelf Set](https://www.amazon.com/dp/B07F8YZ6W4?tag=zenhomeflow-20)
+- [Mini Bonsai Tree or Succulent Set](https://www.amazon.com/dp/B07F6QD3ZH?tag=zenhomeflow-20)
 
 > You don’t need a mansion to live in harmony — just a space that’s designed with care and intention.
