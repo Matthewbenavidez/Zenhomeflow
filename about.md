@@ -4,12 +4,5 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi there! I’m Matthew, a home enthusiast with a passion for blending sleek interior design and the ancient art of Feng Shui. On **ZenHomeFlow**, I share easy-to-follow tips, guided by both aesthetics and energy harmony, to create spaces that look beautiful and feel balanced. Whether you’re setting up a cozy bedroom or designing an office for productivity, I’ve got you covered.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
