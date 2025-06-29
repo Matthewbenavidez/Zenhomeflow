@@ -21,7 +21,6 @@ document.addEventListener('DOMContentLoaded', function () {
     });
   }
 
-  // Search filter for posts.html
   const searchInput = document.getElementById('searchInput');
   const postsList = document.getElementById('postsList');
 
@@ -36,4 +35,36 @@ document.addEventListener('DOMContentLoaded', function () {
       });
     });
   }
+
+  const postContainer = document.getElementById('postContainer');
+
+  if (postContainer) {
+    fetch('posts.json')
+      .then(response => response.json())
+      .then(posts => {
+        let displayPosts = posts;
+
+        // Show only first 3 posts on the homepage
+        if (window.location.pathname.includes('index.html') || window.location.pathname === '/' || window.location.pathname === '/zenhomeflow.github.io/') {
+          displayPosts = posts.slice(0, 3);
+        }
+
+        displayPosts.forEach(post => {
+          const article = document.createElement('article');
+          article.classList.add('post');
+
+          article.innerHTML = `
+            <h2><a href="${post.url}">${post.title}</a></h2>
+            <p>${post.summary}</p>
+          `;
+
+          postContainer.appendChild(article);
+        });
+      })
+      .catch(error => {
+        console.error('Error loading posts:', error);
+        postContainer.innerHTML = "<p>Failed to load posts.</p>";
+      });
+  }
 });
+
