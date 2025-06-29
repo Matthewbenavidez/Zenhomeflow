@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>All Posts - ZenHomeFlow</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+
+  <header>
+    <h1>ZenHomeFlow</h1>
+    <p>Explore all blog posts on building a peaceful, automated home.</p>
+  </header>
+
+  <nav class="navbar">
+    <div class="menu-toggle" id="mobile-menu">
+      <span class="bar"></span>
+      <span class="bar"></span>
+      <span class="bar"></span>
+    </div>
+    <ul class="nav-list">
+      <li><a href="index.html">Home</a></li>
+      <li><a href="about.html">About</a></li>
+      <li><a href="posts.html">Posts</a></li>
+      <li><a href="contact.html">Contact</a></li>
+      <li><button id="toggle-dark">Toggle Dark Mode</button></li>
+    </ul>
+  </nav>
+
+  <main>
+    <section style="text-align: center; margin: 40px 0 20px;">
+      <h2>All Blog Posts</h2>
+      <p style="color: var(--muted); max-width: 600px; margin: 0 auto;">
+        Browse our growing collection of guides, tips, and resources for living calmly with technology.
+      </p>
+    </section>
+
+    <section style="text-align: center; margin: 20px auto; max-width: 400px;">
+      <input type="text" id="searchInput" placeholder="Search posts..." style="width: 100%; padding: 10px; border-radius: 8px; border: 1px solid var(--muted);">
+    </section>
+
+    <section class="blog-container" id="postsList">
+      <article class="post">
+        <h2><a href="posts/post-template.html">Creating a Calm Smart Home Setup</a></h2>
+        <p>Learn how to reduce stress and create peace through automation.</p>
+      </article>
+
+      <article class="post">
+        <h2><a href="posts/post-template.html">Top 5 Smart Devices for Peaceful Living</a></h2>
+        <p>Our picks for the best smart devices to promote a quiet, easy lifestyle.</p>
+      </article>
+
+      <article class="post">
+        <h2><a href="posts/post-template.html">Automation for Better Sleep</a></h2>
+        <p>Smart routines and tech tools to help you wind down and rest better.</p>
+      </article>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 ZenHomeFlow. All rights reserved.</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
